@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_title">My Nanodegree Apps</string>
+    <string name="launch_spotify">Launch Spotify Streamer</string>
+    <string name="launch_score">Launch Scores</string>
+    <string name="launch_library">Launch Library</string>
+    <string name="launch_bigger">Build it Bigger</string>
+    <string name="launch_xyz">Launch XYZ</string>
+    <string name="launch_capstone">Capstone Project</string>
+</resources>
